@@ -2,7 +2,7 @@
  ============================================================================
  Name        : BlueRssi.c
  Author      : Mark Meadows
- Version     :
+ Version     : 0.0.12
  Copyright   : Copyright (c) 2019 Mark MEadows
  Description : BlueRssi in C, Ansi-style
  ============================================================================
